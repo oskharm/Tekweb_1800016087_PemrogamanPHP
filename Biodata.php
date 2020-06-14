@@ -7,7 +7,7 @@
         </style>
     </head>
     <body>
-        <table style="width:100%";>
+        <table style="width:50%";>
             <tr> 
                 <td>NIM</td>
                 <td><?php echo $_POST['nim']."<br>"; ?>
